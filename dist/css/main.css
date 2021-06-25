@@ -1,0 +1,11 @@
+section .main {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+}
+
+section .main .img-bx img {
+  width: 100%;
+}
+/*# sourceMappingURL=main.css.map */

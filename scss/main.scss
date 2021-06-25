@@ -1,0 +1,27 @@
+@import 'responsive';
+
+section{
+    .nav{
+
+    }
+    .main{
+        display:grid;
+        grid-template-columns: 1fr;
+        .img-bx{
+            img{
+                width:100%;
+            }
+        }
+        .text-box{
+            h1{
+
+            }
+            p{
+
+            }
+            .button{
+
+            }
+        }
+    }
+}
